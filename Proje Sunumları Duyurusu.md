@@ -3,7 +3,7 @@
 **Son Teslim Tarihi:** `19.05.2026 23:59` ⏳
 
 ## 📩 Gönderim Adresleri
-Proje raporu, sunum ve kod dosyalarınızı aşağıdaki e-posta adreslerine eksiksiz bir şekilde iletmeniz gerekmektedir:
+Proje raporu, sunum ve kod dosyalarınızı aşağıdaki e-posta adreslerine iletmeniz gerekmektedir:
 - 📧 [emirozturk@trakya.edu.tr](mailto:emirozturk@trakya.edu.tr)
 - 📧 [oguzkirat@trakya.edu.tr](mailto:oguzkirat@trakya.edu.tr)
 
